@@ -14,7 +14,7 @@ Mainly for BuckleScript users, to avoid the step of installing esy.
 With yarn:
 
 ```
-yarn add -D @jchavarri/bs-atdgen-generator
+yarn add -D @lozlow/bs-atdgen-generator
 yarn --check-files
 ```
 
