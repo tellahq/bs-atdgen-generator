@@ -1,8 +1,8 @@
 {
-  "name": "@lozlow/bs-atdgen-generator",
-  "version": "0.2.0",
+  "name": "@tellahq/bs-atdgen-generator",
+  "version": "0.2.0-1",
   "description": "Atdgen prebuilt binaries for 3 major OS platforms.",
-  "author": "Pete Shaw <lozlow@users.noreply.github.com>",
+  "author": "Tella <tellahq@users.noreply.github.com>",
   "license": "MIT",
   "keywords": [
     "reasonml",
@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lozlow/bs-atdgen-generator.git"
+    "url": "git+https://github.com/tellahq/bs-atdgen-generator.git"
   },
   "scripts": {
     "preinstall": "node ./copyPlatformBinaryInPlace.js"
@@ -27,9 +27,9 @@
     "access": "public"
   },
   "bugs": {
-    "url": "https://github.com/lozlow/bs-atdgen-generator/issues"
+    "url": "https://github.com/tellahq/bs-atdgen-generator/issues"
   },
-  "homepage": "https://github.com/lozlow/bs-atdgen-generator#readme",
+  "homepage": "https://github.com/tellahq/bs-atdgen-generator#readme",
   "main": "copyPlatformBinaryInPlace.js",
   "directories": {
     "test": "test"

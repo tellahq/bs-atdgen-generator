@@ -8,3 +8,5 @@ _release
 *.install
 test/
 esy.lock/
+.github
+esy.json
